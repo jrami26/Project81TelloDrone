@@ -1,0 +1,12 @@
+{
+    "name": "Project81",
+    "description": "TelloDrone",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "tello.json",
+            "credentialsFile": "tello_cred.json"
+        }
+    }
+}
